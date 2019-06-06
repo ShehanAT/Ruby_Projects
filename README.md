@@ -2,3 +2,4 @@
 Basic projects made in Ruby<br>
 -Caesar Ciper<br>
 -Stock Picker<br>
+-Substrings<br>
